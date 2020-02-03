@@ -1,0 +1,10 @@
+name: MiniJeuxVor
+version: 1.0
+author: VorTx77
+main: fr.vortx77.minijeuxvor.main
+commands:
+  jeux:
+  h1:
+    permission: h1.use
+  testp4:
+    permission: testp4.use
